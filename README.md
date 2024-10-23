@@ -1,2 +1,2 @@
 # IntroToComputing-Challenges
-This is my first activity in Introduction to Computing.
+This is the compilation of my submitted activities in Introduction to Computing.
