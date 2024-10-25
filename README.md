@@ -1,2 +1,2 @@
 # IntroToComputing-Challenges
-This is the compilation of my submitted activities in Introduction to Computing.
+This repository contains a compilation of all my submitted activities for the course Introduction to Computing.
